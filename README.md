@@ -10,7 +10,7 @@ Software Engineer focused on building reliable systems, automation, and AI-power
 - 🌱 Constantly learning and building
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=krausediego&show_icons=true&hide_border=true" />
 </p>
 
 ## Contact
